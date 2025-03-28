@@ -1,1 +1,1 @@
-updata count=01
+device information = master
