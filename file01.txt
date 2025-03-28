@@ -1,1 +1,1 @@
-device information = master
+couint = 1
