@@ -1,1 +1,1 @@
-updata count=01
+device's information = dev
